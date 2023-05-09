@@ -48,3 +48,6 @@
 - Hyonjoon Park (GDSC Waseda)
 - Minsuh Jo (GDSC KU)
 - Ashyrgeldi Atayev (GDSC Waseda)
+
+## Award
+Our project was awarded second prize and recognized by the judges, who were Google Developer Experts in Android and Kotlin.
